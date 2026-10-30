@@ -6,7 +6,7 @@
   <br><br>
 
   <!-- ۲. لوگوی شما (اختیاری) -->
-  <!-- <img src="./logo-gold.svg" width="100" alt="Angelfort Logo" /> -->
+  <!-- <img src="./Logo_Gold.svg" width="100" alt="Angelfort Logo" /> -->
   
   <!-- ۳. نام برند و شعار اصلی -->
   <h1 style="font-family: 'Cinzel', serif; color: #d4af37; font-size: 40px; letter-spacing: 5px; margin-bottom: 0;">
