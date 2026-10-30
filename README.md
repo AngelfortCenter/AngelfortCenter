@@ -1,19 +1,18 @@
 <div align="center" style="direction: rtl; font-family: 'Vazirmatn', Tahoma, sans-serif;">
 
-  <!-- ۱. بنر بالای صفحه -->
+  <!-- ۱. بنر بالای صفحه (فرشته با بال شکسته) -->
   <img src="./banner.png" alt="Angelfort Banner" width="100%" style="border-radius: 8px;" />
   
   <br><br>
 
-  <!-- ۲. جایگاه لوگو (اختیاری) -->
-  <!-- <img src="./assets/logo-gold.svg" width="100" alt="Angelfort Logo" /> -->
+  <!-- ۲. لوگوی شما (اختیاری) -->
+  <!-- <img src="./logo-gold.svg" width="100" alt="Angelfort Logo" /> -->
   
-  <!-- ۳. نام برند (انگلیسی با فونت Cinzel و طلایی) -->
+  <!-- ۳. نام برند و شعار اصلی -->
   <h1 style="font-family: 'Cinzel', serif; color: #d4af37; font-size: 40px; letter-spacing: 5px; margin-bottom: 0;">
     🏛️ ANGELFORT
   </h1>
   
-  <!-- ۴. شعار (انگلیسی) -->
   <h3 style="font-family: 'Cinzel', serif; color: #888; font-style: italic; margin-top: 5px;">
     Where Law Meets Power
   </h3>
@@ -23,7 +22,7 @@
   
   <br>
   
-  <!-- ۵. نشان‌های وضعیت -->
+  <!-- ۴. نشان‌های وضعیت -->
   <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-darkred?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/ENGINE-MTA:_SA_NEON-purple?style=for-the-badge" alt="Engine" />
   <img src="https://img.shields.io/badge/GENRE-HARDCORE_RP-black?style=for-the-badge" alt="Genre" />
@@ -46,6 +45,17 @@
 We are stripping away the easy money and infinite respawns to create a harsh, realistic world where every bullet, every dollar, and every decision matters.
 ما پول‌های آسان و ریسپاون‌های بی‌نهایت را حذف کرده‌ایم تا دنیایی سخت و واقع‌گرایانه بسازیم که در آن هر گلوله، هر دلار و هر تصمیم اهمیت دارد.
 
+<br><br>
+
+<!-- ۵. تصویر مرد و زن (The Masterminds) -->
+<div align="center">
+  <!-- نام فایل تصویر اول خود را در src قرار دهید -->
+  <img src="./Neon Noir Ballroom Duo.png" width="100%" style="border-radius: 8px; border: 1px solid #333;" alt="The Masterminds" />
+  <p style="color: #666; font-size: 12px; margin-top: 8px;"><i>The Masterminds | مغزهای متفکر</i></p>
+</div>
+
+<br>
+
 Prepare to enter a city divided between the iron fist of the **Government** and the shadowy grip of the **Mafia**.
 آماده شوید تا وارد شهری شوید که بین مشت آهنین **دولت** و چنگال سایه‌گون **مافیا** تقسیم شده است.
 
@@ -59,7 +69,15 @@ Prepare to enter a city divided between the iron fist of the **Government** and 
 *   **The Gangs | گنگ‌ها:** Start from the bottom. Build your crew, take territories, and fight for a spot among the top 20 gangs.
     *   *از پایین‌ترین سطح شروع کنید. گروه خود را بسازید، قلمروها را تصرف کنید و برای قرار گرفتن در بین ۲۰ گنگ برتر بجنگید.*
 
-<br>
+<br><br>
+
+<!-- ۶. تصویر تایپوگرافی (Where Law Meets Power) به عنوان جداکننده -->
+<div align="center">
+  <!-- نام فایل تصویر دوم خود را در src قرار دهید -->
+  <img src="./Where Law Meets Power(1).png" width="80%" style="border-radius: 4px;" alt="Where Law Meets Power" />
+</div>
+
+<br><br>
 
 ### 🚀 Development Roadmap | نقشه راه توسعه
 We are currently in the early stages of development. The core UI and brand identity are complete.
